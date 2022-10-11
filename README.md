@@ -1,1 +1,3 @@
 # jnat-wojnicz
+
+todo readme
