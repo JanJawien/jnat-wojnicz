@@ -1,3 +1,4 @@
 # jnat-wojnicz
 
-todo readme
+## Instrukcja obsługi
+
